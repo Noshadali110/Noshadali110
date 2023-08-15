@@ -1,14 +1,13 @@
-### Hi there, Fahad Shahzad here 😍 
+### Hi there, Noshad Ali here 😍 
 
     
 ### Student Life
-    I did my matriculation and Intermediate from Higher Secondary School in Kauro Ujjan Tharushah Pakistan... 
+    I did my matriculation and Intermediate from Higher Secondary School in Kauro Ujjan Sindh Pakistan... 
     For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
 
 ###  Professional Side:
     I started my Professional Career as a Junior Software Engineer at the start of 4th Semester of my Graduation in the Software industry.
     Mean-while Software Engineer at Idea 2 Product Software Company in Sukkur Pakistan. 
-    After having a handsome experience from a reputed software house, now I have my own best team and startup of more than 10 developers contributing and providing services 
     with mentioned technologies below
 >   For the front end I am using **React JS 🕸️**, and **Next.Js** with cool advance libraries according to customers' demand.
     For backend, I use **Java(Spring boot)**, **Spring boot Microservices (Load Balancers etc)**
@@ -20,10 +19,10 @@
     * Deployed one project in the academic sector to solve the problem of thousands of students.
     * GPS and GSM Based Vehicle Tracking and Reservation with Estimated Arrival time functionality for educational pick and drop services providers
 ### Company Site 
-    🔗 [Fahad's Company Website](https://www.fastechsystem.com/)
+    🔗 [Noshad's Company Website](https://www.linkedin.com/in/noshad-ali-kalhoro-97b634202/)
     
 ### Portfolio    
-    🔗 [Fahad's Personal Portfolio Website](https://www.fahadshahzad.com/)
+    🔗 [Noshad's Personal Portfolio Website](https://www.linkedin.com/in/noshad-ali-kalhoro-97b634202/)
 
 ### Technologies I am working with:
     👉   Spring (Java)
@@ -83,10 +82,10 @@
             Create
             UML
                  Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fahad-qureshi786)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Noshadali110)  
 <br/>
- ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=fahad-qureshi786)
-![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=fahad-qureshi786)  
+ ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=Noshadali110)
+![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=Noshadali110)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahad-qureshi786&show_icons=true&theme=dark)  
-![GitHub metrics](https://metrics.lecoq.io/fahad-qureshi786)  
-![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-qureshi786)  
+![GitHub metrics](https://metrics.lecoq.io/Noshadali110)  
+![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=Noshadali110)  
